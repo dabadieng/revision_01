@@ -7,6 +7,8 @@ if (isset($_POST["Vendre"])) {
     header("location:louer.php");
 } else if (isset($_POST["ContactClient"])) {
     header("location:contactClient.php");
+}else if(isset($_POST["accueil"])) {
+    header("location:index.html");
 }
 ?>
 <!DOCTYPE html>
