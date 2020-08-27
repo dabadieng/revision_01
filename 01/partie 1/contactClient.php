@@ -10,7 +10,7 @@
 <body>
     <?php
     if (!isset($_POST["btsubmit"])) { ?>
-        <form method="POST" action="contact.php">
+        <form method="POST" action="immo.php">
             <p>
                 <label for='nom'>nom</label>
                 <input type='text' name='nom' id='nom' required placeholder='veuillez saisir votre nom' value=''>

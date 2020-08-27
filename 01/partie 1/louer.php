@@ -6,6 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Louer</h1>
+    <h1>Nos bien à louer</h1>
+    <table>
+        <thead>
+            <tr>
+                <td>Numéro de l'article</td>
+                <td>Type de l'article</td>
+                <td>Caractéristiques</td>
+                <td>Adresse</td>
+            </tr>
+        </thead>
+    </table>
 </body>
 </html>

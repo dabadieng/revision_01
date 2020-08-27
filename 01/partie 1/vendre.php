@@ -6,7 +6,15 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Vendre</h1>
-    
+    <h1>Mettre en vente</h1>
+    <table>
+        <thead>
+            <tr>
+                <td>Type de bien</td>
+                <th>Caractéristiques</th>
+                <td>Adresse</td>
+            </tr>
+        </thead>
+    </table>
 </body>
 </html>
